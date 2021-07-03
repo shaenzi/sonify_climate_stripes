@@ -1,0 +1,19 @@
+Schweizer Temperaturmittel -  Température moyenne suisse -  temperatura media Svizzera  - Swiss temperature mean
+
+Download URL Version 1.1   DOI: 10.18751/Climate/Timeseries/CHTM/1.1
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.1-north.low.txt
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.1-north.high.txt   
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.1-south.low.txt
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.1-swiss.txt    
+
+Download URL Version 1.0   DOI: 10.18751/Climate/Timeseries/CHTM/1.0
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.0-north.low.txt
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.0-north.high.txt   
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.0-south.low.txt
+   https://data.geo.admin.ch/ch.meteoschweiz.klima/temperaturmittel-schweiz/10.18751-Climate-Timeseries-CHTM-1.0-swiss.txt    
+
+
+
+
+
+
