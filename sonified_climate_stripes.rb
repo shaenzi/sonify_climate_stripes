@@ -23,5 +23,5 @@ counter = 0
 loop do
   play notes[counter]
   counter = (inc counter)
-  sleep 1
+  sleep 0.45
 end
